@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amit-sagathiya
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning in Information and Communication Technology branch
-- 💞️ I’m looking to collaborate on Data visualization
+- 💞️ I’m looking to collaborate on Data visualization and machine learning
 - 📫 How to reach me amitsagathiya2003@gmail.com
 
 <!---
